@@ -10,7 +10,7 @@ not leaderboard reproduction.
 ---
 
 ## Repository structure
-
+```
 paper-lab/
 ├── papers/
 │   ├── <paper_slug>/
@@ -30,7 +30,7 @@ paper-lab/
 └── tooling/
     ├── new_paper.fish
     └── check_paper_health.fish
-
+```
 ---
 
 ## How to use this repository
